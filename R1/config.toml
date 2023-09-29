@@ -1,0 +1,14 @@
+[server]
+port = 8501
+
+[theme]
+base = "light"
+
+[cache]
+max_age = 600
+
+[logging]
+level = "INFO"
+
+[secrets]
+file = ".streamlit/secrets.toml"
